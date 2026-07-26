@@ -13,6 +13,7 @@ Here is the packet capture containing Mr. X’s activity. As the network forensi
 5. What was the IP address of the Windows system he found?
 6. What TCP ports were open on the Windows system? (Please list the decimal numbers from lowest to highest.)
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6ab4e17b-0337-4259-8ff3-5560a252e45c" />
 
 
 ---
