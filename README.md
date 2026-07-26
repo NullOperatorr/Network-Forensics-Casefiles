@@ -3,6 +3,9 @@ CyberLab-06
 
 A collection of network forensic investigations performed using Wireshark, Network miner, and forensic analysis techniques.  
 
+<img width="598" height="271" alt="image" src="https://github.com/user-attachments/assets/f13e00c0-f5f0-40a8-a652-2fa55fc22ef7" />
+
+
 ---
 
 ## Skills Strengthened
