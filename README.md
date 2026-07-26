@@ -33,10 +33,10 @@ A collection of network forensic investigations performed using Wireshark, Netwo
 
 | Case | Topic |
 |------|-------|
-| Case 1 | Instant Messaging Investigation |
-| Case 2 | Email Investigation |
-| Case 3 | AppleTV Traffic Analysis |
-| Case 4 | Network Reconnaissance |
+| Case 01 | Instant Messaging Investigation |
+| Case 02 | Email Investigation |
+| Case 03 | AppleTV Traffic Analysis |
+| Case 04 | Network Reconnaissance |
 
 ---
 
