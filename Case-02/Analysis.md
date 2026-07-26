@@ -15,8 +15,8 @@ You are the forensic investigator. Your mission is to figure out what Ann emaile
 7. In what CITY and COUNTRY is their rendez-vous point?
 8. What is the MD5sum of the image embedded in the document?
 
-   
-<img width="1203" height="795" alt="image" src="https://github.com/user-attachments/assets/ca39ec68-37cf-4d2b-86cb-9f8b99c22215" />
+  
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ca39ec68-37cf-4d2b-86cb-9f8b99c22215" />
 
 ---
 
