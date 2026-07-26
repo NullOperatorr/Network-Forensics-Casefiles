@@ -17,7 +17,7 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 
 
 <p align="center">
- <img width="229" height="267" alt="Screenshot 2026-07-26 213714" src="https://github.com/user-attachments/assets/0cae2a12-0a8f-428d-8966-96d32bc30ad4" />
+ <img width="400" height="400" alt="Screenshot 2026-07-26 213714" src="https://github.com/user-attachments/assets/0cae2a12-0a8f-428d-8966-96d32bc30ad4" />
 </p>
   
    
