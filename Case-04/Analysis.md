@@ -1,1 +1,20 @@
+## Overview 
 
+While a fugitive in Mexico, Mr. X remotely infiltrates the Arctic Nuclear Fusion Research Facility’s (ANFRF) lab subnet over the Interwebs. Virtually inside the facility (pivoting through a compromised system), he conducts some noisy network reconnaissance. Sadly, Mr. X is not yet very stealthy.
+
+Unfortunately for Mr. X, the lab’s network is instrumented to capture all traffic (with full content). His activities are discovered and analyzed… by you!
+
+Here is the packet capture containing Mr. X’s activity. As the network forensic investigator, your mission is to answer the following questions:
+
+1. What was the IP address of Mr. X’s scanner?
+2. For the FIRST port scan that Mr. X conducted, what type of port scan was it? (Note: the scan consisted of many thousands of packets.)
+3. What were the IP addresses of the targets Mr. X discovered?
+4. What was the MAC address of the Apple system he found?
+5. What was the IP address of the Windows system he found?
+6. What TCP ports were open on the Windows system? (Please list the decimal numbers from lowest to highest.)
+
+
+
+---
+
+## Solution
