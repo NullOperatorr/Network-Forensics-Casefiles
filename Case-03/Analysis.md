@@ -13,6 +13,7 @@ You are the forensic investigator. Your mission is to find out what Ann searched
 7. What was the price to buy it (defined by “price-display”)?
 8. What was the last full term Ann searched for?
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6ef02490-2cb3-4b15-b367-13d02c4c95a8" />
 
 
 ---
