@@ -80,3 +80,5 @@ Answer: 135, 139
 
 ---
 ## Conclusion
+
+This investigation highlighted how packet capture analysis can reveal reconnaissance activity. By examining network traffic, it was possible to identify the scanning host, determine the scan technique, and discover the targeted systems.
