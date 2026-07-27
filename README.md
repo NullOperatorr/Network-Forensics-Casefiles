@@ -24,7 +24,6 @@ A collection of network forensic investigations performed using Wireshark, Netwo
 
 - Wireshark
 - NetworkMiner
-- md5sum
 
 ---
 
@@ -42,16 +41,14 @@ A collection of network forensic investigations performed using Wireshark, Netwo
 
 # Lessons Learned
 
-- Inspecting packet captures using Wireshark and Networn miner.
+- Inspecting packet captures using Wireshark and Network miner.
 - Following TCP streams to reconstruct network conversations.
 - Understanding common network protocols and their forensic artifacts.
-- SMTP, POP3, and IMAP email investigations.
+- SMTP email investigations.
 - HTTP request and response analysis.
 - Reconstructing transferred files from network captures.
 - Recovering deleted or hidden evidence from packet streams.
 - Identifying file types using magic numbers.
-- Exporting files and validating integrity with MD5 hashes.
-- Detecting unauthorized devices on a network.
 - Identifying data exfiltration attempts.
   
 ---
