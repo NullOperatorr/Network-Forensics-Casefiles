@@ -11,7 +11,7 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 1. What is the name of Ann’s IM buddy?
 2. What was the first comment in the captured IM conversation?
 3. What is the name of the file Ann transferred?
-4. What is the magic number of the file you want to extract (first four bytes)?
+4. What is the magic number of the file you want to extract (first four bytes)?mm
 5. What was the MD5sum of the file?
 6. What is the secret recipe?
 
