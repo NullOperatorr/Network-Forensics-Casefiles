@@ -25,6 +25,7 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 
  ## Solution
  ## 1. What is the name of Ann’s IM buddy?
+ Answer: Sec558user1
 
  As we are only searching for Ann's PC, we can filter by her own IP address
 
@@ -40,7 +41,24 @@ After inspecting packets:
 <img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/4c9da1a8-58e3-4da0-872e-b8e4400fa497" />  
 <img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/b8b0a280-d214-4c55-bd87-ec67b45e90e5" />
 
+---
 
+## 2. What was the first comment in the captured IM conversation?
+Answer: Here's the secret recipe... I just downloaded it from the file server. Just copy to a thumb drive and you're good to go
+
+In the same packet stream inspection we found the second answer.
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2436183e-da75-4326-aaba-572bad59d131" />
+
+
+---
+
+## 3. What is the name of the file Ann transferred?
+Answer: recipe.docx
+
+In the same packet stream inspection we found the third answer.
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/323ee013-0442-44bf-bb10-5775b2af9ecf" />
 
 
 
