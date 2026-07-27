@@ -51,9 +51,6 @@ Answer: h, ha, hac, hack
    ```
     - Then ctrl+f and search by the word search
  
-     ```bash
-     search
-     ```
 
 <img width="1725" height="607" alt="image" src="https://github.com/user-attachments/assets/864a7b49-56de-410c-8ccc-ed116f6d6af7" />
 
