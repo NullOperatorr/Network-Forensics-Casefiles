@@ -15,9 +15,8 @@ A collection of network forensic investigations performed using Wireshark, Netwo
 - HTTP
 - SMTP
 - File Carving
-- Hash Verification
 - Traffic Reconstruction
-- IOC Discovery
+
 
 ---
 
