@@ -9,8 +9,7 @@ You are the forensic investigator. Your mission is to find out what Ann searched
  3. What were Ann’s first four search terms on the AppleTV (all incremental searches count)?
  4. What was the title of the first movie Ann clicked on?
  5. What was the title of the second movie Ann clicked on?
- 6. What was the price to buy it (defined by “price-display”)?
- 7. What was the last full term Ann searched for?
+ 6. What was the last full term Ann searched for?
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6ef02490-2cb3-4b15-b367-13d02c4c95a8" />
 
@@ -80,15 +79,10 @@ Answer: Sneakers
 
 <img width="1457" height="863" alt="image" src="https://github.com/user-attachments/assets/87d4c800-076f-4d36-86f1-540b4a9ac3fc" /> 
 
-  
----
-
-## 6. What was the price to buy it (defined by “price-display”)?
-Answer: $9.99
 
 ---
 
-## 7. What was the last full term Ann searched for?
+## 6. What was the last full term Ann searched for?
 Answer: iknowyourewatchingme
 
 - Still investigating by Network miner, everything seems easy and straight forward tool for investigation
