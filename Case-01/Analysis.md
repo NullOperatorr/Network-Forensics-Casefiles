@@ -11,7 +11,7 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 1. What is the name of Ann’s IM buddy?
 2. What was the first comment in the captured IM conversation?
 3. What is the name of the file Ann transferred?
-4. What is the magic number of the file you want to extract (first four bytes)?mm
+4. What is the magic number of the file you want to extract (first four bytes)?
 5. What was the MD5sum of the file?
 6. What is the secret recipe?
 
@@ -59,6 +59,30 @@ Answer: recipe.docx
 In the same packet stream inspection we found the third answer.
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/323ee013-0442-44bf-bb10-5775b2af9ecf" />
+
+
+---
+
+## 4. What is the magic number of the file you want to extract (first four bytes)?
+Answer: 50 4B 03 04 14 00 06 00 (Packet 119)
+
+There are two ways to do that:  
+
+1- Since we know from other questions that their is a recipe.docx file so we can search for the magic byte of the .docx bytes on https://www.garykessler.net/library/file_sigs_GCK_latest.html  
+then find them in the capture by the hex value so that you can verify and know the first packet where the file was seen.
+
+<img width="974" height="350" alt="image" src="https://github.com/user-attachments/assets/b457b7a2-777a-44ed-90be-d7c0f239164e" />
+<img width="1903" height="1061" alt="image" src="https://github.com/user-attachments/assets/7fd43448-6a58-443f-a417-85dcc4d1db02" />
+
+
+2- As we know from the description that Ann contacted someone on the local network so we can search for LAN communication between Ann and anyone locally.
+
+<img width="686" height="242" alt="image" src="https://github.com/user-attachments/assets/d2d47621-be20-444c-9e58-fc7a984660e6" />
+<img width="1819" height="556" alt="image" src="https://github.com/user-attachments/assets/22894388-211e-4b4e-a61c-b35da8bfa1da" />
+<img width="1255" height="988" alt="image" src="https://github.com/user-attachments/assets/0ec53fe9-e6f0-41bf-b010-5426017e0900" />
+
+
+
 
 
 
