@@ -11,9 +11,8 @@ You are the forensic investigator. Your mission is to figure out what Ann emaile
 3. What is Ann’s secret lover’s email address?
 4. What two items did Ann tell her secret lover to bring?
 5. What is the NAME of the attachment Ann sent to her secret lover?
-6. What is the MD5sum of the attachment Ann sent to her secret lover?
-7. In what CITY and COUNTRY is their rendez-vous point?
-8. What is the MD5sum of the image embedded in the document?
+6. In what CITY and COUNTRY is their rendez-vous point?
+7. What is the MD5sum of the image embedded in the document?
 
   
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ca39ec68-37cf-4d2b-86cb-9f8b99c22215" />
@@ -21,3 +20,47 @@ You are the forensic investigator. Your mission is to figure out what Ann emaile
 ---
 
 ## Solution
+
+## 1. What is Ann’s email address?
+Answer:
+
+---
+
+## 2. What is Ann’s email password?
+Answer:
+
+
+---
+
+## 3. What is Ann’s secret lover’s email address?
+Answer:
+
+
+---
+
+## 4. What two items did Ann tell her secret lover to bring?
+Answer:
+
+
+---
+
+## 5. What is the NAME of the attachment Ann sent to her secret lover?
+Answer:
+
+
+---
+
+## 6. In what CITY and COUNTRY is their rendez-vous point?
+Answer:
+
+
+---
+
+
+## 7. What is the MD5sum of the image embedded in the document?
+Answer:
+
+
+---
+
+## Conclusion
