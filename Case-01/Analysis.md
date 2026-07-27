@@ -110,6 +110,12 @@ Finally open the file and here is the recipe.
 
 
 
+---
+
+## Conclusion
+
+
+This investigation demonstrated how packet capture analysis can be used to reconstruct user activity and recover valuable digital evidence. By examining the network traffic, it was possible to identify Ann's instant messaging conversation, recover the transferred file.
 
 
 
