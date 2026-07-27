@@ -49,13 +49,12 @@ Answer: h, ha, hac, hack
    ip.addr == 192.168.1.10 && http
    ```
    
-Then ctrl+f and search by the word search
+- Then ctrl+f and search by the word search
  
 
 <img width="1725" height="607" alt="image" src="https://github.com/user-attachments/assets/864a7b49-56de-410c-8ccc-ed116f6d6af7" />
 
-  
-     - By clicking four times incremental you will find the word h, ha, hac, hack.
+  - By clicking four times incremental you will find the word h, ha, hac, hack.
 
   <img width="1817" height="390" alt="image" src="https://github.com/user-attachments/assets/b1e048d0-3df3-45e6-a33a-8b7b30dae5c0" />  
 
