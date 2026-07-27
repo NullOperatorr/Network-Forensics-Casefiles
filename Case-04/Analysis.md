@@ -19,3 +19,33 @@ Here is the packet capture containing Mr. X’s activity. As the network forensi
 ---
 
 ## Solution
+
+## 1. What was the IP address of Mr. X’s scanner?
+Answer:
+
+---
+## 2. For the FIRST port scan that Mr. X conducted, what type of port scan was it? (Note: the scan consisted of many thousands of packets.)
+Answer:
+
+---
+
+## 3. What were the IP addresses of the targets Mr. X discovered?
+Answer:
+
+---
+
+## 4. What was the MAC address of the Apple system he found?
+Answer:
+
+---
+
+## 5. What was the IP address of the Windows system he found?
+Answer:
+
+---
+
+## 6. What TCP ports were open on the Windows system? (Please list the decimal numbers from lowest to highest.)
+Answer:
+
+---
+## Conclusion
