@@ -24,3 +24,26 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 ---
 
  ## Solution
+ ## 1. What is the name of Ann’s IM buddy?
+
+ As we are only searching for Ann's PC, we can filter by her own IP address
+
+ ```bash
+ip.addr==192.168.1.158
+```
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/9ea1c22f-ebb2-49c6-aca8-1415bbaed351" />
+
+so, now we reduced the number of packets from 240 to 68 to invetigate more easily.  
+
+After inspecting packets:
+
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/4c9da1a8-58e3-4da0-872e-b8e4400fa497" />  
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/b8b0a280-d214-4c55-bd87-ec67b45e90e5" />
+
+
+
+
+
+
+
+
