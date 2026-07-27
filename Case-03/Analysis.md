@@ -58,9 +58,6 @@ Answer: h, ha, hac, hack
      - By clicking four times incremental you will find the word h, ha, hac, hack.
      
 
-     <img width="1817" height="390" alt="image" src="https://github.com/user-attachments/assets/b1e048d0-3df3-45e6-a33a-8b7b30dae5c0" />  
-
-
 ---
 
 ## 4. What was the title of the first movie Ann clicked on?
