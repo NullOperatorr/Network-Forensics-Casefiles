@@ -12,8 +12,7 @@ You are the forensic investigator. Your mission is to figure out who Ann was IM-
 2. What was the first comment in the captured IM conversation?
 3. What is the name of the file Ann transferred?
 4. What is the magic number of the file you want to extract (first four bytes)?
-5. What was the MD5sum of the file?
-6. What is the secret recipe?
+5. What is the secret recipe?
 
 
 <p align="center">
@@ -80,6 +79,41 @@ then find them in the capture by the hex value so that you can verify and know t
 <img width="686" height="242" alt="image" src="https://github.com/user-attachments/assets/d2d47621-be20-444c-9e58-fc7a984660e6" />
 <img width="1819" height="556" alt="image" src="https://github.com/user-attachments/assets/22894388-211e-4b4e-a61c-b35da8bfa1da" />
 <img width="1255" height="988" alt="image" src="https://github.com/user-attachments/assets/0ec53fe9-e6f0-41bf-b010-5426017e0900" />
+
+
+---
+
+
+
+
+## 5. What is the secret recipe?
+Answer: 
+
+First we will change the data from ASCII to raw
+
+<img width="1121" height="1064" alt="image" src="https://github.com/user-attachments/assets/1fb1c245-18c0-46d4-9c61-0da80879d648" />  
+
+
+Second we will save it in the .docx format
+
+<img width="1215" height="1100" alt="image" src="https://github.com/user-attachments/assets/b4ee3954-4cd5-4bfe-821b-3679f0b9f815" />
+
+We will find the below error because we do not only saved the file alone but with another raw data so we will click yes and office we solve the corrupted data.
+
+<img width="588" height="313" alt="image" src="https://github.com/user-attachments/assets/1c282f1f-29d4-4265-b49c-420edbf14861" />
+
+
+Finally open the file and here is the recipe.
+
+<img width="764" height="397" alt="image" src="https://github.com/user-attachments/assets/003e02ac-9313-422f-ae75-fbf17bf8514b" />
+
+
+
+
+
+
+
+
 
 
 
