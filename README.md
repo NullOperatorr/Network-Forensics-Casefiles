@@ -58,3 +58,6 @@ A collection of network forensic investigations performed using Wireshark, Netwo
 
 Successful network forensic investigations are built on evidence analysis rather than assumptions.  
 Throughout these case studies, I demonstrate how to analyze packet captures to reconstruct user activity, recover transferred files, identify suspicious or malicious behavior, and extract digital evidence suitable for incident response and forensic reporting.
+
+---
+---
